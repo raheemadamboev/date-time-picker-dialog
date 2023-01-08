@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Date Time Picker Dialog</string>
+
+    <!-- Main -->
+    <string name="pick_date">Pick a date</string>
+    <string name="pick_time">Pick a time</string>
+    <string name="ok">OK</string>
+    <string name="clicked_ok">Clicked OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
